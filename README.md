@@ -1,11 +1,7 @@
-# JULIAN BESTEIRO
+# JULIAN BESTEIRO - Full Stack Developer
+ 
+🖥️ Javascript | Node.js | Express.js | PostgreSQL | Sequelize | MongoDB | Mongoose | React | React Context | Redux | Bootstrap | Material UI | HTML | CSS
 
-**`Full Stack Developer`**
-### 🖥️ Stack
-Javascript | Node.js | Express.js | PostgreSQL | Sequelize | MongoDB | Mongoose | React | React Context | Redux | Bootstrap | Material UI | HTML | CSS
-<br />
-
-#
 
 
 🚀 I firmly believe in the power of continuous improvement through consistent focus and hard work, and I make it my mission to embrace this mindset on a daily basis.
