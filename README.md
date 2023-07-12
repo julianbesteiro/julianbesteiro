@@ -40,7 +40,7 @@
 •**Front-end**: React, React Context.
 #
 
-**<a href= https://github.com/julianbesteiro/tmdb-front>Plataforma 5, The Movie Database</a>**
+**<a href= https://tmdb-front-ivory.vercel.app/>Plataforma 5, The Movie Database</a>**
 
 •Movies and TV series browser (TMDB API).
 
