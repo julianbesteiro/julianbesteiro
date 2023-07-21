@@ -21,7 +21,7 @@
 ### 🧰 Projects
 
 
-**<a href= https://fixit-front.vercel.app/>GLOBANT - Plataforma 5, Broken office project</a>**
+**GLOBANT - Plataforma 5, Broken office project.** <a href="https://www.loom.com/share/127f67d727874030a84164b7fd6451bf?sid=73ecc1a0-f87d-402d-8e28-21f52ebdfc2f/">Watch a short demo</a> or <a href=https://fixit-front.vercel.app/>check out the app</a>.
 
 •Full Stack dev - 4 weekly sprints - 4 demos - 4 devs - Scrum methodology - Git.
 
@@ -31,7 +31,7 @@
 
 •**Front-end**: Vite, React, Redux, Material UI.
 #
-**<a href= https://github.com/julianbesteiro/teezyco-front>Plataforma 5, E-commerce for an apparel brand</a>**
+**Plataforma 5, E-commerce for an apparel brand.** <a href="https://www.loom.com/share/f7f7669693bd43d293cf157597bbcd3b?sid=6f3f5208-18ba-44f5-ab6e-f733b49cea2d/">Watch a short demo</a>.
 
 •Fullstack dev - 2 weekly sprints - 2 demos - 4 devs - Scrum methodology - Git.
 
@@ -40,7 +40,7 @@
 •**Front-end**: React, React Context.
 #
 
-**<a href= https://tmdb-front-ivory.vercel.app/>Plataforma 5, The Movie Database</a>**
+**Plataforma 5, The Movie Database.** <a href="https://www.loom.com/share/dba5e42654574f6e9b51b52720f991d3?sid=fa32b404-15f3-4622-aa96-e4c9f6d7c772/">Watch a short demo</a> or <a href= https://tmdb-front-ivory.vercel.app/>check out the app</a>.
 
 •Movies and TV series browser (TMDB API).
 
