@@ -4,7 +4,7 @@
 
 
 
-🚀 I firmly believe in the power of continuous improvement through consistent focus and hard work, and I make it my mission to embrace this mindset on a daily basis.
+🚀 I firmly believe in the power of continuous improvement through consistent focus and strategic hard work, and I make it my mission to embrace this mindset on a daily basis.
 
 
 - 🔭 I'm currently working with a team on an app for last mile delivery logistics.
