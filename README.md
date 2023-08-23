@@ -12,7 +12,7 @@
 - 👨‍💻👨‍💻 I’m always looking to collaborate on challenging projects.
 
 ## Check out my portfolio
-[<img alt="portfolio" src="https://img.shields.io/badge/Portfolio-My%20Portfolio-black" />](https://www.julianbesteiro.com/)
+[<img alt="portfolio" src="https://img.shields.io/badge/My%20Portfolio-black" />](https://www.julianbesteiro.com/)
 
 ## Connect with me
 [<img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/julian-besteiro-full-stack-developer/)
