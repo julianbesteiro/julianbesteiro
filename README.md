@@ -15,7 +15,7 @@
 [<img alt="portfolio" src="https://img.shields.io/badge/MY%20PORTFOLIO-black?style=flat-square&logo=portfolio&logoColor=white&colorA=white" />](https://www.julianbesteiro.com/)
 
 ## Connect with me
-[<img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/julian-besteiro-full-stack-developer/)
+[<img alt="linked-in" src="https://img.shields.io/badge/linkedinn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/julian-besteiro-full-stack-developer/)
 
 ---
 
