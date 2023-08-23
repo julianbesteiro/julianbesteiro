@@ -10,7 +10,9 @@
 - 🔭 I'm currently working with a team on an app for last mile delivery logistics.
 - 🌱 I’m currently learning Typescript and Next JS.
 - 👨‍💻👨‍💻 I’m always looking to collaborate on challenging projects.
- 
+
+## Check out my portfolio
+[<img alt="portfolio" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logoColor=black" />](https://www.julianbesteiro.com/)
 
 ## Connect with me
 [<img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/julian-besteiro-full-stack-developer/)
