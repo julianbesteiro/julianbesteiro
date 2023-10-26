@@ -22,7 +22,7 @@
 
 ### 🧰 Projects
 
-**Plataforma 5, Last-mile delivery logistics app. Deploy: AWS EKS.** <a href="https://www.loom.com/share/3c1e2fce340d4099bb2458127250e1cf?sid=5bb1bd2f-f8b9-48cb-a93a-eca4db85a88b">Watch a short demo</a>.
+**DELIVERIT - Plataforma 5, Last-mile delivery logistics app. Deploy: AWS EKS.** <a href="https://www.loom.com/share/3c1e2fce340d4099bb2458127250e1cf?sid=5bb1bd2f-f8b9-48cb-a93a-eca4db85a88b">Watch a short demo</a>.
 
 •Full Stack dev - 12 weekly sprints - 12 demos - 4 devs - Scrum methodology - Git.
 
