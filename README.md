@@ -73,4 +73,4 @@
 
 <p> With over 1400 hours of intensive training and the completion of four professional projects, I have emerged as a dedicated developer eager to tackle new projects and embrace new technologies.</p>
 
-<p> Since November 2023, I am deeply immersed in the fascinating world of AI and Machine Learning and developing AI solutions for e-commerce.</p>
+<p> Since November 2023, I have been deeply immersed in the fascinating world of AI and Machine Learning and developing AI solutions for e-commerce.</p>
