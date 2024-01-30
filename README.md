@@ -1,21 +1,21 @@
-# JULIAN BESTEIRO - Full Stack Developer
+# JULIAN BESTEIRO - Software Engineer
  
-🖥️ Javascript | Node.js | Express.js | Next.js | Typescript | PostgreSQL | Sequelize | MongoDB | Mongoose | React | React Context | Redux | Bootstrap | Material UI | Tailwind | JWT | Docker | AWS
+🖥️ Langchain.js | Node.js | Express.js | Next.js | Typescript | PostgreSQL | Sequelize | MongoDB | Mongoose | React | React Context | Redux | Bootstrap | Material UI | Tailwind | JWT | Docker | AWS
 
 
 
 🚀 I firmly believe in the power of continuous improvement through consistent focus and strategic hard work, and I make it my mission to embrace this mindset on a daily basis.
 
 
-- 🔭 I'm currently working in freelance projects.
-- 🌱 I’m currently learning React Native.
+- 🔭 I'm currently working on freelance projects.
+- 🌱 I’m currently learning ML/AI.
 - 👨‍💻👨‍💻 I’m always looking to collaborate on challenging projects.
 
 ## Check out my work
 [<img alt="portfolio" src="https://img.shields.io/badge/MY%20PORTFOLIO-black?style=flat-square&logo=portfolio&logoColor=white&colorA=white" />](https://www.julianbesteiro.com/)
 
 ## Connect with me
-[<img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/julian-besteiro-full-stack-developer/)
+[<img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/julian-besteiro-sofware-engineer/)
 
 ---
 
@@ -72,3 +72,5 @@
 <p>Seeking to broaden my skill set, I completed a 100-hour Javascript fundamentals course, discovering a passion for coding and tech along the way. Motivated by it, I enrolled in a rigorous 4-month full-time Coding Bootcamp focused on full-stack web development with Javascript and a 3-month full-time Bootcamp extension that consisted of the development of a last-mile delivery logistics app.</p>
 
 <p> With over 1400 hours of intensive training and the completion of four professional projects, I have emerged as a dedicated developer eager to tackle new projects and embrace new technologies.</p>
+
+<p> Since November 2023, I am deeply immersed in the fascinating world of AI and Machine Learning.</p>
