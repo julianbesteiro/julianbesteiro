@@ -1,15 +1,10 @@
 # JULIAN BESTEIRO - Software Engineer
  
-🖥️ Langchain.js | Node.js | Express.js | Next.js | Typescript | PostgreSQL | Sequelize | MongoDB | Mongoose | React | React Context | Redux | Bootstrap | Material UI | Tailwind | JWT | Docker | AWS
-
-
-
 🚀 I firmly believe in the power of continuous improvement through consistent focus and strategic hard work, and I make it my mission to embrace this mindset on a daily basis.
 
+Right now, I am developing custom software for VASP and OTC crypto partners, integrating Binance and other exchanges APIs, and building automation solutions tailored for crypto P2P operations.
 
-- 🔭 I'm currently working on freelance projects.
-- 🌱 I’m currently learning ML/AI.
-- 👨‍💻👨‍💻 I’m always looking to collaborate on challenging projects.
+🖥️ MAIN STACK: Typescript | Next.js | Express.js | Docker | AWS | n8n | Flowise | VoiceFlow | Tailwind | PostgreSQL | Sequelize | MongoDB | Mongoose | Langchain.js
 
 <!-- 
 ## Check out my work
